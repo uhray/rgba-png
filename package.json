@@ -1,6 +1,6 @@
 {
   "name": "rgba-png",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "rgba png middleware",
   "main": "index.js",
   "scripts": {
